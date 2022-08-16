@@ -3,7 +3,7 @@
 A basic micard app in flutter.
 
 
-Linkedin Profile Link: https://www.linkedin.com/in/mohammad-bilal-akbar-981649189/
+Linkedin Profile Link: https://www.linkedin.com/in/mohammad-bilal-akbar-981649189/          
 Github Profile Link: https://github.com/MuhammadBilalAkbar                                         
 Youtube Channel Link: https://www.youtube.com/channel/UCu2Hy8Wzb14T37e5Adsfc8w                      
 Facebook Profile Link: https://www.facebook.com/mbilalakbar0/
