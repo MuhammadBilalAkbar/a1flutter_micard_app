@@ -2,6 +2,7 @@
 
 A basic micard app in flutter.
 
+Explanation Video on Youtube: https://youtu.be/1_ePgoH_eDQ          
 Linkedin Profile Link: https://www.linkedin.com/in/mohammad-bilal-akbar-981649189/          
 Github Profile Link: https://github.com/MuhammadBilalAkbar                                         
 Youtube Channel Link: https://www.youtube.com/channel/UCu2Hy8Wzb14T37e5Adsfc8w                      
@@ -10,6 +11,8 @@ Facebook Profile Link: https://www.facebook.com/mbilalakbar0/
   <p align="center">
   <img src="FlutterMicardApp.PNG" />
 </p>
+
+[![Flutter MiCard App](https://yt-embed.herokuapp.com/embed?v=1_ePgoH_eDQ)](https://www.youtube.com/watch?v=1_ePgoH_eDQ "Flutter MiCard App")
 
 ## Getting Started
 
